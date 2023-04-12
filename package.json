@@ -1,0 +1,16 @@
+{
+  "name": "rssfeedchecker",
+  "version": "1.0.0",
+  "description": "checks for rss feed updates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Preston",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "rss-parser": "^3.12.0",
+    "sqlite3": "^5.1.6"
+  }
+}
